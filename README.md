@@ -31,7 +31,7 @@ Atualmente no **4º período**, busco o domínio dos fundamentos da computação
 
 ---
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DaviWilcker22/DaviWilcker22/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
